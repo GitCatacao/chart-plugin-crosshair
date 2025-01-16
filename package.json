@@ -7,4 +7,5 @@
     "type": "module",
     "jsdelivr": "./dist/chart-plugin-crosshair.js",
     "unpkg": "./dist/chart-plugin-crosshair.js",
+    "main": "./dist/chart-plugin-crosshair.js",
 }
