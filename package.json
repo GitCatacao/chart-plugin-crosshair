@@ -1,0 +1,10 @@
+{
+    "name": "chart-plugin-crosshair",
+    "homepage": "https://github.com/GitCatacao",
+    "description": "Chart.js Crosshair plugin",
+    "version": "1.0.0",
+    "license": "MIT",
+    "type": "module",
+    "jsdelivr": "./dist/chart-plugin-crosshair.js",
+    "unpkg": "./dist/chart-plugin-crosshair.js",
+}
