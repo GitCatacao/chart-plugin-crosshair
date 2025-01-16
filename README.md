@@ -1,1 +1,1 @@
-# chart.js
+# chart-plugin-crosshair 
