@@ -17,7 +17,7 @@ Requires [Chart.js](https://github.com/chartjs/Chart.js/releases) **3.4.0** or l
 
 
 
-## GitHub WebSite: https://gitcatacao.github.io/
+
 ## Configuration ⚙️
 
 ```javascript
@@ -70,6 +70,8 @@ https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/sample.html
 ```
 <script src="https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair"></script>
 ```
+
+## GitHub WebSite: https://gitcatacao.github.io/
 
 ## License 🏎️🍒
 
