@@ -64,7 +64,7 @@ new Chart(ctx, {
 https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/sample.html
 
 ## CDN 💻
-[https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/](https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair@0.0.1/chartjs-plugin-madefattobora-xy-crosshair.js)
+[https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair](https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair)
 
 #### CDN Easy include
 ```
