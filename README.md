@@ -58,7 +58,7 @@ new Chart(ctx, {
 });
 ```
 
-** When you see a parameter ending with `x` or `y`, this overrides the global parameter.
+** When you see a parameter ending with `_x` or `_y`, this overrides the global parameter.
 
 ## Sample 💹
 https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/sample.html
