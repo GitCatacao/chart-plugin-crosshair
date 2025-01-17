@@ -66,7 +66,7 @@ https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/sample.html
 ## CDN 💻
 [https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/](https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair@0.0.1/chartjs-plugin-madefattobora-xy-crosshair.js)
 
-#### Easy include
+#### CDN Easy include
 ```
 <script src="https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair"></script>
 ```
