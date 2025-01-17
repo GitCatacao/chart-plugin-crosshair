@@ -23,11 +23,11 @@ Requires [Chart.js](https://github.com/chartjs/Chart.js/releases) **3.4.0** or l
 ```javascript
 new Chart(ctx, {
 	
-  // ... data ...
+  // ...  data  ...
 
   options: {
 
-    // ... other options ...
+    // ...  other options  ...
 
 	plugins: {
 		ch_xy_crosshair: {
