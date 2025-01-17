@@ -71,7 +71,7 @@ https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/sample.html
 <script src="https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair"></script>
 ```
 
-## GitHub WebSite: https://gitcatacao.github.io/
+## GitHub WebSite: https://gitcatacao.github.io
 
 ## License 🏎️🍒
 
