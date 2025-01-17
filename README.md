@@ -32,7 +32,7 @@ new Chart(ctx, {
 	plugins: {
 		ch_xy_crosshair: {
 			enabled: true,
-			// ** other available options
+			// ** plugin options
 			// mode: 'xy', // 'x', 'y', 'xy' 
 			// color: 'red',
 			// color_x: 'red',
