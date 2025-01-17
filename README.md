@@ -42,9 +42,9 @@ new Chart(ctx, {
 			// width_y: 1, // pixels number
 			// type: 'solid', // solid | dashed
 			// type_x: 'solid', // solid | dashed
-			// type_y: 'dashed', // solid | dashed
+			// type_y: 'solid', // solid | dashed
 			// rainbow: true, // true | false
-			// rainbow_x: true, // true | false
+			// rainbow_x: false, // true | false
 			// rainbow_y: false, // true | false
 			// px_top: 0, // undefined | pixels number    [0 is different from undefined]
 			// px_left: 0, // undefined | pixels number   [0 is different from undefined]
