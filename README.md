@@ -71,7 +71,7 @@ https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/sample.html
 <script src="https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair"></script>
 ```
 
-## License 🍒
+## License 🏎️🍒
 
 
 `chartjs-plugin-madefattobora-xy-crosshair` is available under the [MIT license](LICENSE.md).
