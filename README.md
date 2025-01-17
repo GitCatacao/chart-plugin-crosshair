@@ -27,7 +27,7 @@ new Chart(ctx, {
 
   options: {
 
-    // ...  other options  ...
+    // ...  chart options  ...
 
 	plugins: {
 		ch_xy_crosshair: {
