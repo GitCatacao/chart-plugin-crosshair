@@ -61,10 +61,10 @@ new Chart(ctx, {
 ** When you see a parameter ending with `x` or `y`, this overrides the global parameter.
 
 ## Sample 💹
-https://unpkg.com/chartjs-plugin-madefattobora-xycrosshair/sample.html
+https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/sample.html
 
 
 ## License 🍒
 
 
-`chartjs-plugin-madefattobora-xycrosshair` is available under the [MIT license](LICENSE.md).
+`chartjs-plugin-madefattobora-xy-crosshair` is available under the [MIT license](LICENSE.md).
