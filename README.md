@@ -1,4 +1,4 @@
-# chartjs-plugin-madefattobora-xycrosshair
+# chartjs-plugin-madefattobora-xy-crosshair
 
 ## Documentation 📚
 
