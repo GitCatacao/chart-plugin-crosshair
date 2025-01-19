@@ -58,9 +58,9 @@ new Chart(ctx, {
 });
 ```
 
-* When you see a parameter ending with `_x` or `_y`, this overrides the global parameter.
+|* When you see a parameter ending with `_x` or `_y`, this overrides the global parameter.
 
-** If the parameters starting with `px_` are `undefined` the crosshair reaches the edge of the scale, if the value `0` is entered the crosshair reaches the ticks of the scale. If instead a positive or negative number is entered the crosshair will reach the indicated position.
+|** If the parameters starting with `px_` are `undefined` the crosshair reaches the edge of the scale, if the value `0` is entered the crosshair reaches the ticks of the scale. If instead a positive or negative number is entered the crosshair will reach the indicated position.
 
 ## Sample 💹
 https://unpkg.com/chartjs-plugin-madefattobora-xy-crosshair/sample.html
