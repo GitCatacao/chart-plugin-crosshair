@@ -34,9 +34,9 @@ new Chart(ctx, {
 			enabled: true,
 			// ** plugin options
 			// mode: 'xy', // 'x', 'y', 'xy' 
-			// color: 'red',
-			// color_x: 'red',
-			// color_y: 'red',
+			// color: 'red', // css standard colors, hex, rgb, rgba
+			// color_x: 'red', // css standard colors, hex, rgb, rgba
+			// color_y: 'red', // css standard colors, hex, rgb, rgba
 			// width: 1, // pixels number
 			// width_x: 1, // pixels number
 			// width_y: 1, // pixels number
