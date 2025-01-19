@@ -43,7 +43,7 @@ new Chart(ctx, {
 			// type: 'solid', // solid | dashed
 			// type_x: 'solid', // solid | dashed
 			// type_y: 'solid', // solid | dashed
-			// rainbow: true, // true | false
+			// rainbow: false, // true | false
 			// rainbow_x: false, // true | false
 			// rainbow_y: false, // true | false
 			// px_top: 0, // undefined | pixels number    [0 is different from undefined]
