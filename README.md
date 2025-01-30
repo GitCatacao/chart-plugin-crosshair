@@ -3,7 +3,7 @@
 ## Documentation 📚
 
 
-[Chart.js](http://www.chartjs.org/) plugin to draw horizontal and vertical crosshair lines.
+[Chart.js](http://www.chartjs.org/) plugin to draw horizontal and vertical (xy axis) crosshair lines.
 
 Does not interfere with other plugins.
 
